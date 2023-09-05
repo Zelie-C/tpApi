@@ -1,0 +1,22 @@
+GET http://localhost:3001/toto
+
+###
+GET http://localhost:3001/date
+
+###
+GET http://localhost:3001/thomas
+
+###
+GET http://localhost:3001/random
+
+###
+GET http://localhost:3001/files
+
+###
+POST http://localhost:3001/randombetween/10/50
+
+###
+GET http://localhost:3001/simplon/logo
+
+###
+GET http://localhost:3001/simplon/web
