@@ -47,9 +47,10 @@ app.get ('/simplon/logo', function (req, res) {
 })
 
 
+app.use(express.static('public'))
 
 app.get('/simplon/web', function (req, res) {
-    res.send(app.use(express.static('public')))
+    res.send()
 })
 
 app.listen(3001, () => {

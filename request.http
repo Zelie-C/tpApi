@@ -19,4 +19,4 @@ POST http://localhost:3001/randombetween/10/50
 GET http://localhost:3001/simplon/logo
 
 ###
-GET http://localhost:3001/simplon/web
+GET http://localhost:3000/uhkhk
